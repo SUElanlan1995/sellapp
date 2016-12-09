@@ -10,8 +10,8 @@ npm clone xxx
 npm install
 
 # run this
-npm run build
-npm run dev
+npm run build   生成模式
+npm run dev     开发模式
 
 #open localhost:8800
 
