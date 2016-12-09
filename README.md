@@ -1,6 +1,6 @@
 # chen-project
 
-> by name first cli
+> by name first mobile application about sell
 
 
 # clone this
